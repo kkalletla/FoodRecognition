@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="E:\University\Third_Quarter\Computer_Vision\Project_3\Main_Source\FoodRecognition\libraries\opencv\src\main\assets"/><source path="E:\University\Third_Quarter\Computer_Vision\Project_3\Main_Source\FoodRecognition\libraries\opencv\build\generated\assets\shaders\release"/></dataSet><dataSet config="release"><source path="E:\University\Third_Quarter\Computer_Vision\Project_3\Main_Source\FoodRecognition\libraries\opencv\src\release\assets"/></dataSet></merger>

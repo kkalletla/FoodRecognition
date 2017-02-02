@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FoodRecognition</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_image_result">ImageResult</string>
+    <string name="title_activity_segmentation_result">SegmentationResult</string>
+    <string name="title_activity_histogram_view">HistogramView</string>
+</resources>
